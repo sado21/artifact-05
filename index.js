@@ -1,8 +1,7 @@
-var myImages =["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhujovKACx80reK9Y8mpn88fmbXa6AHUFf8SwaY3av6SKFz1ub","https://amp.businessinsider.com/images/57b2124cdd089546258b45ae-750-500.jpg","https://www.tripsavvy.com/thmb/eqIUoqQykjoDq0sCKQVY7XccPkk=/960x0/filters:no_upscale():max_bytes(150000):strip_icc()/37705096385_a5722ec534_k-5b50265246e0fb003780ab4c.jpg","https://www.arabianbusiness.com/sites/default/files/styles/full_img/public/images/2017/03/07/Dubai-skyline.jpg"
-               "https://observer.ug/images/Rwanda/kcc.jpg"];
+var myImages =["https://www.google.com/url?sa=i&source=images&cd=&cad=rja&uact=8&ved=2ahUKEwjp2M24ifHeAhXcHzQIHUIMCh0QjRx6BAgBEAU&url=https%3A%2F%2Fthehappypuppysite.com%2Fshar-pei%2F&psig=AOvVaw11coACicb41XBqCFf7FM_F&ust=1543287789444636https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbes4FlA6JatlLbbJQmAjxf5aCbEfQYKMnMbhqntxS1-gr0Kt3CQ","https://www.arabianbusiness.com/sites/default/files/styles/full_img/public/images/2017/03/07/Dubai-skyline.jpg","https://static1.squarespace.com/static/54d29f9ee4b00906e82cc34a/t/5887e319e3df28abe39d7da7/1485300510967/shutterstock_225726403+%281%29.jpg?format=2500w","https://www.trafalgar.com/~/media/images/destination-guides/greece/TT_Greece_landing-page-hero_768x450","https://www.azamaraclubcruises.com/sites/default/files/heros/pr-venice-italy-5-may-19.jpg"];
 
 
-var captionImages =["somalia","morocco","Greece","Dubai","Rwanda"];
+var captionImages =["morocco","dubai","Equality New Mexico","Grece","Italy"];
 
 var index=0; 
 
