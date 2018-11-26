@@ -1,6 +1,6 @@
 var myImages = ["Dubai.jpg, Greece.jpg,morocco.jpg,somalia.jpg, Tailandia.jfif"];
 
-var captionImages =[ "Dubai.jpg, Greece.jpg,morocco.jpg,somalia.jpg, Tailandia.jfif"];
+var captionImages =[ "Dubai, Greece,morocco,somalia, Tailandia"];
 
 var index=0; 
 
