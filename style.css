@@ -1,32 +1,11 @@
-* {
-  background-color: hotpink;
+body{
+  text-align:center;
+  background-color: blanchedalmond; 
 }
-a {
-  font-size: 140%;
-}
-a:hover {
-  font-weight: bold;
-}
-a:link {
-  color: DarkGoldenRod;
-}
-a:visited {
-  color: DarkGreen;
-}
-section {
-  text-align: center;
-}
-h1 {
-  font-family: 'DancingScriptRegular';
-  font-size: 300%;
-}
-footer {
-  text-align: left;
-  padding-top: 50px;
-}
-a {
-  font-size: 140%;
-}
-a.gcmap {
-  font-size: 100%;
+
+h1 { 
+  font-family: 'KaushanScriptRegular'; 
+  font-weight: normal; 
+  font-style: normal; 
+  font-size: 100px;
 }
