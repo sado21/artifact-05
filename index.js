@@ -1,13 +1,13 @@
-var myImages = [""];
+var myImages = ["Dubai.jpg, Greece.jpg,morocco.jpg,somalia.jpg, Tailandia.jfif"];
 
-var captionImages =[" "];
+var captionImages =[ "Dubai.jpg, Greece.jpg,morocco.jpg,somalia.jpg, Tailandia.jfif"];
 
 var index=0; 
 
 function updateImage(){
-  document.getElementById("slideshow").src = "artifact-05images/" + myImages[index];
+  document.getElementById("slideshow").src = "css/style.css/Dubai.jpg" + myImages[index];
   document.getElementById("slideshow").alt= captionImages[index];
-  document.getElementById("caption").innerHTML = "<p>" + captionImages[index] + "<br>Image " + (index+1) + " of 25</p>"; 
+  document.getElementById("caption").innerHTML = "<p>" + captionImages[index] + "<br>Image " + (index+1) + " of 5</p>"; 
 } 
 
 function next(){
